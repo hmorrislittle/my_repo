@@ -1,2 +1,4 @@
 Hello World.
 Edit of the file hello.txt.
+
+I'm in a new branch
